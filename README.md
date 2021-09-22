@@ -54,7 +54,7 @@ Below there is a list of parameters with description (all values should be provi
 - akey - api key from Binance, instruction how generate key on https://github.com/dachu02
 - skey - secret key from Binance, instruction how generate key on https://github.com/dachu02
 - apiUrl - Binance API URL, default set as https://api.binance.com
-- finhubApiKey - api key from finnhub, instruction how generate key on https://github.com/dachu02
+- finhubApiKey - api key from https://finnhub.io/, instruction how generate key on https://github.com/dachu02
 - pairList - list of coins supported by the bot (coma separated, eg. BTCUSDT,ETHUSDT,BNBUSDT), currently only pairs with USDT are supported *this constant is disabled in Early Access
 - maxOpenOrdersPerCoin - maximum open orders per one coin *this constant is disabled in Early Access
 - defaultBuyAmountInUSDT - amount of USDT that will be spent for one order, 12 is the minimum value, Binance will reject smaller orders
