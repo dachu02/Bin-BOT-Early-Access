@@ -1,10 +1,10 @@
-+------------------------------------------------+
-|  PLEASE CAREFULLY READ INFORMATION BEFORE USE  |
-+------------------------------------------------+
+##PLEASE CAREFULLY READ INFORMATION BEFORE USE
 
-+------------------------------------------------+
-|  Bin-BOT v0.5 Early Access                     |
-+------------------------------------------------+
+
+
+##Bin-BOT v0.5 Early Access
+
+
 Official webpage for the bot app is https://github.com/dachu02...
 Bin-BOT app in still in development phase, but I do my best to make it work without any issue and errors, but if any occur, please let me know via github page.
 I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other both available on the market ;)
@@ -20,16 +20,16 @@ my ID: 73860889
 If you don't have Binance account yet, you can use my referral and support me that way:)
 https://accounts.binance.com/pl/register?ref=23777960   or use ref number during registration 23777960
 
-+------------------------------------------------+
-|  Bin-BOT - virus scan report                   |
-+------------------------------------------------+
+
+##Bin-BOT - virus scan report
+
 App is for sure virus free but sometimes Windows Defender reports it as Malware, its false positive and for the final version i'l try to request false positive removal.
 For now you can upload the app to the Kacpersky Online check (https://opentip.kaspersky.com/) to be sure that file is free of viruses.
 
 
-+------------------------------------------------+
-|  APP features                                  |
-+------------------------------------------------+
+
+##APP features
+
 1. Auto trading on SPOT market on Binance.com - current version supports 3 predefined coin pairs (BTCUSDT,ETHUSDT,BNBUSDT) and max 3 open orders per pair. Buy and Sell is basing on the basic strategies which are using MACD and EMA indicators. Currently, there is a support for scalping and mid term strategy.
 2. Manual trading on predefined pairs (buy and sell)
 3. Statistics of past trades via bot or manual trade
@@ -56,8 +56,8 @@ akey - api key from Binance, instruction how generate key on https://github.com/
 skey - secret key from Binance, instruction how generate key on https://github.com/dachu02
 apiUrl - Binance API URL, default set as https://api.binance.com
 finhubApiKey - api key from finnhub, instruction how generate key on https://github.com/dachu02
-pairList - list of coins supported by the bot (coma separated, eg. BTCUSDT,ETHUSDT,BNBUSDT), currently only pairs with USDT are supported **this constant is disabled in Early Access
-maxOpenOrdersPerCoin - maximum open orders per one coin **this constant is disabled in Early Access
+pairList - list of coins supported by the bot (coma separated, eg. BTCUSDT,ETHUSDT,BNBUSDT), currently only pairs with USDT are supported *this constant is disabled in Early Access
+maxOpenOrdersPerCoin - maximum open orders per one coin *this constant is disabled in Early Access
 defaultBuyAmountInUSDT - amount of USDT that will be spent for one order, 12 is the minimum value, Binance will reject smaller orders
 takeProfit - percentage value on which bot will sell positions, recommended value from 0.5 to 5
 botBuyEnabled - enable or disable auto buy by bot
@@ -69,7 +69,7 @@ trailingStopLossMargin - margin for trailingStopLossArm (eg. when trailingStopLo
 allowNotification - enable or disable windows notifications
 debug - show or hide debug info (hide recommended if bot is working properly, there is a lot information there)
 -------------------------
-** some features are disabled in early access
+*some features are disabled in early access
 
 
 +------------------------------------------------+
