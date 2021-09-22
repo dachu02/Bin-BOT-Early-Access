@@ -12,8 +12,7 @@ I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python
 If you are happy about the app, and you earn some money you can buy me a coffee or send me a tip to:
 
 ETH Wallet
-
-BTC Wallet
+0x0dE6F523E706B46CfC23BE41E1DF699a75A372d9
 
 Binance Account via Pay tab in you Binance App (no fee):
 my ID: 73860889
