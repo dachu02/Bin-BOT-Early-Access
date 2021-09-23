@@ -23,6 +23,8 @@ If you don't have Binance account yet, you can use my referral and support me th
 
 https://accounts.binance.com/pl/register?ref=23777960   or use ref number during registration 23777960
 
+Contact: dachu02@gmail.com
+
 
 # Bin-BOT - virus scan report
 
