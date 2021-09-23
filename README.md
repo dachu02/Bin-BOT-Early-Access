@@ -71,6 +71,7 @@ Below there is a list of parameters with description (all values should be provi
 - trailingStopLossActive - enable or disable TrailingStop-loss
 - trailingStopLossArm - at this percentage value bot will be "armed", sell will be automatically when percentage drops by trailingStopLossMargin
 - trailingStopLossMargin - margin for trailingStopLossArm (eg. when trailingStopLossArm = 2 and trailingStopLossMargin = 0.5 bot will sell at minimum 1.5 when threshold of 2 will be reached, but if profit will achieve eg. 4% then order will be sold at 0.5% less) more explanation on github page
+- checkMarketConditions - bot will check market conditions and will not buy if bad
 - allowNotification - enable or disable windows notifications
 - debug - show or hide debug info (hide recommended if bot is working properly, there is a lot information there)
 
