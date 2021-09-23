@@ -5,9 +5,10 @@
 ## Bin-BOT v0.5 Early Access
 
 
-Official webpage for the bot app is https://github.com/dachu02/Bin-BOT-Early-Access/
+This is official webpage for the Bin-BOT app for Windows.
+
 Bin-BOT app in still in development phase, but I do my best to make it work without any issue and errors, but if any occur, please let me know via github page.
-I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other both available on the market ;)
+I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other bots available on the market ;)
 
 If you are happy about the app, and you earn some money you can buy me a coffee or send me a tip to:
 
@@ -45,6 +46,7 @@ Currently, I'm still working on:
 - users custom strategies
 - automated DCA for the bot
 - nicer look of the app :)
+- support for Linux
 
 ## APP configuration
 
