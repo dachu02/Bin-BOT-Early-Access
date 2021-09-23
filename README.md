@@ -26,8 +26,8 @@ https://accounts.binance.com/pl/register?ref=23777960   or use ref number during
 
 # Bin-BOT - virus scan report
 
-App is for sure virus free but sometimes Windows Defender reports it as Malware, its false positive and for the final version I''l try to request false positive removal.
-For now you can upload the app to the Kacpersky Online check (https://opentip.kaspersky.com/) to be sure that file is free of viruses.
+App is for sure virus free but sometimes Windows Defender reports it as Malware, its false positive and for the final version I'll try to request false positive removal.
+For now you can upload the app to the Kaspersky Online check (https://opentip.kaspersky.com/) to be sure that file is free of viruses.
 
 
 
