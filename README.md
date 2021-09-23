@@ -1,17 +1,17 @@
-## PLEASE CAREFULLY READ INFORMATION BEFORE USE
+# PLEASE CAREFULLY READ INFORMATION BEFORE USE
 
 
 
-## Bin-BOT v0.5 Early Access
+# Bin-BOT v0.5 Early Access
 
 
 This is official webpage for the Bin-BOT app for Windows.
 
 Bin-BOT app in still in development phase, but I do my best to make it work without any issue and errors, but if any occur, please let me know via github page.
 
-**I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other bots available on the market ;)
+### I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other bots available on the market ;)
 
-**If you are happy about the app, and you earn some money you can buy me a coffee or send me a tip to:
+### If you are happy about the app, and you earn some money you can buy me a coffee or send me a tip to:
 
 ETH Wallet
 0x0dE6F523E706B46CfC23BE41E1DF699a75A372d9
@@ -24,14 +24,14 @@ If you don't have Binance account yet, you can use my referral and support me th
 https://accounts.binance.com/pl/register?ref=23777960   or use ref number during registration 23777960
 
 
-## Bin-BOT - virus scan report
+# Bin-BOT - virus scan report
 
 App is for sure virus free but sometimes Windows Defender reports it as Malware, its false positive and for the final version I''l try to request false positive removal.
 For now you can upload the app to the Kacpersky Online check (https://opentip.kaspersky.com/) to be sure that file is free of viruses.
 
 
 
-## APP features
+# APP features
 
 1. Auto trading on SPOT market on Binance.com - current version supports 3 predefined coin pairs (BTCUSDT,ETHUSDT,BNBUSDT) and max 3 open orders per pair. Buy and Sell is basing on the basic strategies which are using MACD and EMA indicators. Currently, there is a support for scalping and mid term strategy.
 2. Manual trading on predefined pairs (buy and sell)
@@ -49,7 +49,7 @@ Currently, I'm still working on:
 - nicer look of the app :)
 - support for Linux
 
-## APP configuration
+# APP configuration
 
 Using config.ini you can change basic settings of the app and provide your API KEYs
 Below there is a list of parameters with description (all values should be provided without ' ' or " "):
@@ -74,7 +74,7 @@ Below there is a list of parameters with description (all values should be provi
 *some features are disabled in early access
 
 
-## RESPONSIBILITY & RISK
+# RESPONSIBILITY & RISK
 1. !App is for the people over 18, you are playing with real money and you can both take profit or lose your money.
 2. !Use the app only if you understand what you are doing and you understand all the risks of trading cryptocurrencies. You warrant that you understand the price volatility in the cryptocurrency market and the potential loss.
 3. !Me as a Bin-BOT developer and Binance and any other third party will NOT TAKE responsibility on your profit or loss.
@@ -82,5 +82,5 @@ Below there is a list of parameters with description (all values should be provi
 5. !Last but not least, I'm not providing any investments advices. If you need one, please go to the professional financial advisor.
 
 
-## STRATEGIES DESCRIPTION
+# STRATEGIES DESCRIPTION
 TBA
