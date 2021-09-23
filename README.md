@@ -41,9 +41,10 @@ For now you can upload the app to the Kaspersky Online check (https://opentip.ka
 6. Trailing stop-loss feature for orders placed by bot - you can define your thresholds
 7. TakeProfit and StopLoss with predefined thresholds and possibility to disable them.
 8. Windows notification when new buy or sell order is placed
-9. Add support for other base assets different that USDT (eg. USDC, BUSD)
+9. 
 
 Currently, I'm still working on:
+- add support for other base assets different that USDT (eg. USDC, BUSD)
 - users custom strategies
 - automated DCA for the bot
 - nicer look of the app :)
