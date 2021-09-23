@@ -8,9 +8,10 @@
 This is official webpage for the Bin-BOT app for Windows.
 
 Bin-BOT app in still in development phase, but I do my best to make it work without any issue and errors, but if any occur, please let me know via github page.
-I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other bots available on the market ;)
 
-If you are happy about the app, and you earn some money you can buy me a coffee or send me a tip to:
+**I'm not a corporate, I'm not a company - I'm crypto enthusiast, who knows Python a little and didn't want to pay $$ for other bots available on the market ;)
+
+**If you are happy about the app, and you earn some money you can buy me a coffee or send me a tip to:
 
 ETH Wallet
 0x0dE6F523E706B46CfC23BE41E1DF699a75A372d9
