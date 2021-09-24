@@ -1,5 +1,6 @@
 # PLEASE CAREFULLY READ INFORMATION BEFORE USE
-
+Check latest news on Twitter: https://twitter.com/BinBotApp
+Contact with me: bin-bot@outlook.com
 
 
 # Bin-BOT v0.5 Early Access
@@ -22,8 +23,6 @@ my ID: 73860889
 If you don't have Binance account yet, you can use my referral and support me that way:)
 
 https://accounts.binance.com/pl/register?ref=23777960   or use ref number during registration 23777960
-
-Contact: dachu02@gmail.com
 
 
 # Bin-BOT - virus scan report
