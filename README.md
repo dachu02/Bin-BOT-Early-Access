@@ -42,7 +42,6 @@ For now you can upload the app to the Kaspersky Online check (https://opentip.ka
 6. Trailing stop-loss feature for orders placed by bot - you can define your thresholds
 7. TakeProfit and StopLoss with predefined thresholds and possibility to disable them.
 8. Windows notification when new buy or sell order is placed
-9. Checking good or bad market conditions based on MACD
 
 Currently, I'm still working on:
 - add support for other base assets different that USDT (eg. USDC, BUSD)
@@ -86,4 +85,24 @@ Below there is a list of parameters with description (all values should be provi
 
 
 # STRATEGIES DESCRIPTION
-TBA
+ID: 1 MACD 5 min
+ID: 2 MACD 15min
+ID: 3 MACD 1h
+
+# Changelog:
+** v0.5.1
++ added selecting strategy from config.ini file
++ added macd 5m strategy
++ added macd 15m strategy
++ added macd 1h strategy
++ added log error to file
++ added support for more coins
++ added API Keys existence check
++ added Binance error handling
++ fix for notification
++ fix for manual sell
+
+** v0.5
++ added notification
++ added StopLoss function
++ added Trailing StopLoss
